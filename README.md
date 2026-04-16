@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 About Me<br><br>Data Engineer focused on building scalable and reliable data systems.<br><br>I design end-to-end data pipelines — from ingestion to analytics — with a strong focus on real-time processing, performance, and robustness.<br><br>💡 Expertise:<br>- Real-time data streaming (Kafka ecosystem)<br>- Data pipeline orchestration (Airflow)<br>- Cloud data platforms (GCP / AWS)<br>- Data modeling & warehouse optimization<br><br>⚙️ Stack:<br>Kafka • Spark • Airflow • BigQuery • Python • Terraform • Docker<br><br>📈 Experience:<br>- Built a production-grade streaming pipeline (Kafka → BigQuery)<br>- Developed batch processing pipelines and ETL workflows<br>- Implemented monitoring (Prometheus, Grafana) and CI/CD pipelines<br><br>🎓 MSc Big Data & AI — ESTIA
 
 
