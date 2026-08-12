@@ -33,9 +33,22 @@
 
 ---
 
+<!-- Badge Followers & Stars -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/SamuelSfy?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
   <img src="https://img.shields.io/github/stars/SamuelSfy?label=Stars&style=for-the-badge&color=bb9af7&logo=github" />
+  <img src="https://img.shields.io/github/search/SamuelSfy/SamuelSfy?label=Public%20Repos&style=for-the-badge&color=7dcfff&logo=github" />
+</p>
+
+<!-- Cartes de Stats & Langages (Instance très stable) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelSfy&theme=tokyonight" width="48%" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelSfy&theme=tokyonight" width="48%" alt="Repos per Language" />
+</p>
+
+<!-- Trophées & Badges de Contributions -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamuelSfy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 ---
 
