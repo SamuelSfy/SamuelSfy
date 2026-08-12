@@ -34,12 +34,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSfy&theme=tokyo-night&hide_border=true" width="100%" alt="Samuel's Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelSfy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSfy&theme=tokyonight&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/SamuelSfy?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
+  <img src="https://img.shields.io/github/stars/SamuelSfy?label=Stars&style=for-the-badge&color=bb9af7&logo=github" />
 </p>
 ---
 
