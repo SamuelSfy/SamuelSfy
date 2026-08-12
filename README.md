@@ -32,18 +32,4 @@
 | **BI, Front & Observability** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SamuelSfy?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
-  <img src="https://img.shields.io/github/directory-file-count/SamuelSfy/SamuelSfy?label=Public%20Repos&style=for-the-badge&color=7dcfff&logo=github" />
-  <img src="https://img.shields.io/github/stars/SamuelSfy?label=Total%20Stars&style=for-the-badge&color=bb9af7&logo=github" />
-</p>
-
-<!-- Vos technologies principales -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
 <div align="center">
