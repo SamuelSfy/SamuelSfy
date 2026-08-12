@@ -33,26 +33,15 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
 <p align="center">
-  <a href="https://github.com/SamuelSfy">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelSfy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Samuel's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/SamuelSfy">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamuelSfy&theme=tokyonight&layout=compact&hide_border=true" alt="Most Used Languages" width="48%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSfy&theme=tokyo-night&hide_border=true" width="100%" alt="Samuel's Activity Graph" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SamuelSfy">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelSfy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SamuelSfy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamuelSfy&theme=tokyonight&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=SamuelSfy&color=1E40AF&style=flat-square)
-
-</div>
