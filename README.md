@@ -12,7 +12,7 @@
 
 ---
 
-### 💡 About Me
+### 💡 About Me 
 
 - 🔭 **What I do:** I design end-to-end data systems — from real-time ingestion to analytics & business tools — with a strong focus on reliability, performance, and cloud architecture.
 - ⚡ **Recent Highlights:** Refactored real-time Kafka pipelines to BigQuery, built IaC automation with Terraform, and designed business dashboards for decision-making.
